@@ -1,0 +1,34 @@
+Basic Level Problems
+Write a Dart program that prints "Hello, world!" to the console.
+Write a Dart program that takes two numbers as input and prints their sum.
+Write a Dart program that takes a name as input and prints a greeting message to the console.
+Write a Dart program that takes a string as input and prints its length.
+Write a Dart program that takes a list of numbers as input and prints their sum.
+Write a Dart program that takes a list of strings as input and prints the longest string.
+Write a Dart program that takes a string as input and prints its reverse.
+Write a Dart program that takes a list of integers as input and prints the largest and smallest numbers.
+Write a Dart program that takes a list of numbers as input and prints the average.
+Write a Dart program that takes a string as input and counts the number of vowels in the string.
+
+Intermediate Level Problems
+
+Write a Dart program that checks if a given number is prime or not.
+Write a Dart program that takes a list of numbers as input and checks if it is sorted in ascending order.
+Write a Dart program that takes a list of integers as input and prints the second largest number.
+Write a Dart program that takes a list of integers as input and checks if it contains duplicates.
+Write a Dart program that takes a list of strings as input and checks if all the strings have the same length.
+Write a Dart program that takes a list of integers as input and removes all the even numbers.
+Write a Dart program that takes two lists of integers as input and returns a new list containing the common elements.
+Write a Dart program that takes a string as input and checks if it is a palindrome.
+Write a Dart program that takes a list of integers as input and returns a new list containing the unique elements.
+Write a Dart program that takes a list of strings as input and returns a new list containing the strings in alphabetical order.
+Write a Dart program that takes a list of integers as input and returns the maximum difference between any two elements in the list.
+Write a Dart program that takes a list of integers as input and returns the maximum product that can be obtained by selecting a non-empty subsequence of the list.
+Write a Dart program that takes a list of integers as input and returns the length of the longest consecutive subsequence of the list.
+Write a Dart program that takes a list of integers as input and returns the k-th largest element in the list.
+Write a Dart program that takes a list of integers as input and returns the frequency of each element in the list.
+Write a Dart program that takes a list of integers as input and returns the median of the list.
+Write a Dart program that takes a list of integers as input and returns the mode of the list.
+Write a Dart program that takes a list of integers as input and returns the standard deviation of the list.
+Write a Dart program that takes a list of integers as input and returns the variance of the list.
+Write a Dart program that takes a list of integers as input and returns the range of the list.
