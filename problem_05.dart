@@ -1,16 +1,18 @@
 import 'dart:io';
-void main(){
 
-  List<int> numberList = [1, 2, 4, 8, 6, 10];
+//05. Write a Dart program that takes a list of numbers as input and prints their sum.
+void main() {
+  print('Input All Numbers');
+
+  String allNumberString = stdin.readLineSync()!;
+
+  List<String> numberStringList = allNumberString.split(' ');
 
   int sum = 0;
 
-  for(int number in numberList){
-    sum = sum + number;
+  for (var numberString in numberStringList) {
+    sum = sum + int.parse(numberString);
   }
 
-  print('Sum of all number in List is: $sum');
-
-
-
+  print('Sum is: $sum');
 }
