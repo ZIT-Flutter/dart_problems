@@ -6,7 +6,11 @@ void main() {
 
   String allNumberString = stdin.readLineSync()!;
 
+  //allNumberString = '1 2 3 4 7';
+
   List<String> numberStringList = allNumberString.split(' ');
+
+  //numberStringList = ['1', '2', '3', '4', '7']
 
   int sum = 0;
 
