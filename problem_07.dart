@@ -6,6 +6,7 @@ void main() {
   print('Input the String.');
 
   String myString = stdin.readLineSync()!;
+  var mylist = [1, 2, 3, 4];
 
   var reverseString = myString.split('').reversed.join();
 
