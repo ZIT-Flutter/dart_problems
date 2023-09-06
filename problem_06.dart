@@ -2,8 +2,7 @@
 
 import 'dart:io';
 
-void main(){
-  
+void main() {
   print('Please input all Strings');
 
   String allString = stdin.readLineSync()!;
@@ -16,13 +15,11 @@ void main(){
 
   String longestName = '';
 
-  for(String name in allStringList){
-    if(name.length >= longestName.length){
+  for (String name in allStringList) {
+    if (name.length > longestName.length) {
       longestName = name;
     }
   }
 
   print(longestName);
-
-
 }
