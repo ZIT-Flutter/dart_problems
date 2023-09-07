@@ -3,13 +3,13 @@
 void main() {
   List<int> numberList = [7, 3, 9, 8, 4, 2, 6];
 
-  int myBox = numberList[0];
+  int smallestNumber = numberList[0];
 
   for (var number in numberList) {
-    if (number < myBox) {
-      myBox = number;
+    if (number < smallestNumber) {
+      smallestNumber = number;
     }
   }
 
-  print("Smallest number is $myBox");
+  print("Smallest number is $smallestNumber");
 }
